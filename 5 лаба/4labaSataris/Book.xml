@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<store>
+      
+            <books>
+                <book title="Идиот" author="Федор Достоевский" year="1869" cost="15.40" />
+                <book title="Ромео и Джульетта" author="Уильям Шекспир" year="1597" cost="17.20" />
+                <book title="Горе от ума" author="Александр Сергеевич Грибоедов" year="1831" cost="11.30" />
+                <book title="Мастер и Маргарита" author="Михаил Булгаков" year="1966" cost="26.15" />
+            </books>
+    
+</store>
